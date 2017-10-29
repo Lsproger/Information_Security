@@ -1,0 +1,11 @@
+c:\users\razok\documents\visual studio 2017\Projects\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).exe.config
+c:\users\razok\documents\visual studio 2017\Projects\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).exe
+c:\users\razok\documents\visual studio 2017\Projects\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).pdb
+c:\users\razok\documents\visual studio 2017\Projects\HemmingCode(3)\HemmingCode(3)\obj\Debug\HemmingCode(3).exe
+c:\users\razok\documents\visual studio 2017\Projects\HemmingCode(3)\HemmingCode(3)\obj\Debug\HemmingCode(3).pdb
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).exe.config
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).exe
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\bin\Debug\HemmingCode(3).pdb
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\obj\Debug\HemmingCode(3).csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\obj\Debug\HemmingCode(3).exe
+D:\Учёба\3 курс\1 сем\Защита информации\HemmingCode(3)\HemmingCode(3)\obj\Debug\HemmingCode(3).pdb
