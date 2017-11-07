@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\bin\Debug\CycleCode.exe.config
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\bin\Debug\CycleCode.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\bin\Debug\CycleCode.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\obj\Debug\CycleCode.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\obj\Debug\CycleCode.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\CycleCode\CycleCode\obj\Debug\CycleCode.csprojResolveAssemblyReference.cache
