@@ -12,14 +12,28 @@ namespace IterativeCode
         {
             for (;;)
             {
-                IterativeCode ic = new IterativeCode();
-                ic.EnterWord(true);
-                //   Console.WriteLine(ic.Xk.ToStr());
-                ic.CalcRKN();
-                ic.GenerateMatrixView();
-                //    ic.CalcHxy();
-                Console.WriteLine("k = {0}, x = {1}, y = {2}", ic.k, ic.hx, ic.hy);
-                ic.printM(ic.H);
+                try
+                {
+                    IterativeCode ic = new IterativeCode();
+                    Console.WriteLine("Enter Xk");
+                    ic.EnterWord(true);
+                    ic.CalcRKN();
+                    Console.WriteLine("k = {0}, x = {1}, y = {2}", ic.k, ic.hx, ic.hy);
+                    ic.GenerateMatrixView(true);
+                    ic.printM(ic.Hin);
+                    Console.WriteLine("Enter Yn");
+                    ic.EnterWord(false);
+                    ic.GenerateMatrixView(false);
+                    ic.printM(ic.Hout);
+                    ic.CorrectError();
+                    Console.WriteLine("Corrected Matrix");
+                    ic.printM(ic.Hout);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+
             }
         }
     }
