@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\bin\Debug\IterativeCode.exe.config
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\bin\Debug\IterativeCode.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\bin\Debug\IterativeCode.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\obj\Debug\IterativeCode.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\obj\Debug\IterativeCode.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\IterativeCode\IterativeCode\obj\Debug\IterativeCode.csprojResolveAssemblyReference.cache

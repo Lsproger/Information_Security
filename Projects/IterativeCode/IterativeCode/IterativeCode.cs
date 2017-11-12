@@ -5,16 +5,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CycleCode
+namespace IterativeCode
 {
-    public class CycleCode
+    public class IterativeCode
     {
-        public  bool[] Gx, Xn, Xk, Xr, Rx, Yn, Yk, Sr, U, E;
+        public bool[] Gx, Xn, Xk, Xr, Rx, Yn, Yk, Sr, U, E;
         public string sYk;
-        public int n, k, r;
-        public  bool isCode;
-        //public enum Gx;
-        private static bool[][] H;
+        public int n, k, r, hx, hy;
+        public bool isCode;
+        public bool[][] H;
+
         private static bool[][] G =  {
             new bool[]{ true,true},
             new bool[]{ true,true,true},
@@ -33,6 +33,56 @@ namespace CycleCode
         //    Array.Copy(Xk, tmpXn, k);
         //}
 
+
+
+        public void GenerateMatrixView()
+        {
+            CalcHxy();
+            H = new bool[hy][];
+            for (int i = 0; i < hy; i++)
+            {
+                H[i] = new bool[hx];
+                if (i < hy - 1)
+                    for (int j = 0; j < hx - 1; j++)
+                    {
+                        if (((hx - 1) * i) + j < Xk.Length)
+                            H[i][j] = Xk[((hx - 1) * i) + j];
+                        else break;
+                    }
+            }
+
+        }
+
+        private void CalcHxy()
+        {
+            if (Math.Sqrt(k) == Math.Truncate(Math.Sqrt(k)))
+            {
+                hy = (int)Math.Sqrt(k) + 1;
+                hx = (int)Math.Sqrt(k) + 1;
+            }
+            else
+            {
+                bool isI = Math.Truncate((double)k) == k ? true : false;
+                hx = (int)Math.Truncate(Math.Sqrt(k)) + 2;
+                int i = 1;
+                while (true)
+                {
+                    double a = Math.Truncate((double)((k + i) / hx));
+                    double b = ((double)(k + i) / hx);
+
+                    if (a == b)
+                    {
+                        hy = (int)(a + 1);
+                        if ((hy - 1) * (hx - 1) < k) hy++;
+                        break;
+                    }
+                    i++;
+                }
+            }
+        }
+
+
+
         private static bool[] GetPolynom(int r)
         {
             if (r < G.Count() + 1)
@@ -43,6 +93,7 @@ namespace CycleCode
         public void CalcXn()
         {
             Xn = new bool[n];
+            Gx = GetPolynom(r);
             Xr = Xk.Mul(r).Div(Gx);
             Array.Copy(Xk, Xn, k);
             Array.Copy(Xr, 0, Xn, n - Xr.Length, Xr.Length);
@@ -50,8 +101,8 @@ namespace CycleCode
 
         public void FindEVector()
         {
-            
-            Rx = new bool[] { true}.Mul(n-1).Div(Gx);
+
+            Rx = new bool[] { true }.Mul(n - 1).Div(Gx);
             bool[] tmpYn = Yn;
             for (int i = 0; i < n; i++)
             {
@@ -76,7 +127,7 @@ namespace CycleCode
                 sYk = BinToWord(Yk);
             }
             return sYk;
-           
+
         }
 
         public bool[] XnDivGx()
@@ -84,27 +135,6 @@ namespace CycleCode
             return Xn.Div(Gx);
         }
 
-        //public bool[] operator /(bool[] X, bool[] G)
-        //{
-        //    new bool
-        //}
-
-        //public static bool[] GetEVector(bool[][] H, bool[] S)
-        //{
-        //    int n = H[0].Length;
-        //    bool[] E = new bool[n];
-        //    if (IsSZero(S)) return E;
-        //    for (int i = 0; i < H[0].Length; i++)
-        //    {
-        //        if (IsEquals(S, TransMatr(H)[i]))
-        //        {
-        //            E[i] = true;
-        //            return E;
-        //        }
-        //    }
-        //    return E;
-        //}
-         
         public static bool IsSZero(bool[] S)
         {
             for (int i = 0; i < S.Length; i++)
@@ -208,7 +238,7 @@ namespace CycleCode
                     Yn = Yn.Mul(r);
                     for (int i = n - Xr.Length; i < n; i++)
                     {
-                        Yn[i] = Xr[i - ( n - Xr.Length)];
+                        Yn[i] = Xr[i - (n - Xr.Length)];
                     }
                 }
             }
@@ -240,7 +270,6 @@ namespace CycleCode
             k = Xk.Count();
             r = (int)Math.Ceiling(Math.Log(k, 2) + 1);
             n = k + r;
-            Gx = GetPolynom(r);
         }
 
         public static bool[][] TransMatr(bool[][] matr)
