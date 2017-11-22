@@ -1,0 +1,17 @@
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\bin\Debug\Permutator.dll
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\bin\Debug\Permutator.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\bin\Debug\Permutator.pri
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\Permutator.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\Permutator.dll
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\Permutator.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\priconfig.xml
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\priconfig.xml.intermediate
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\layout.resfiles
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\layout.resfiles.intermediate
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\resources.resfiles
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\resources.resfiles.intermediate
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\pri.resfiles
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\pri.resfiles.intermediate
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\qualifiers.txt
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\qualifiers.txt.intermediate
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Permutator\Permutator\obj\Debug\MultipleQualifiersPerDimensionFound.txt

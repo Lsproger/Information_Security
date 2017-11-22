@@ -25,14 +25,6 @@ namespace CycleCode
             new bool[]{ true, false,false,false,true,false,false,true},
             new bool[]{ true, true, true,true, false,false, true,true,true} };
 
-
-
-        //public bool CalcXn()
-        //{
-        //    bool[] tmpXn = new bool[n];
-        //    Array.Copy(Xk, tmpXn, k);
-        //}
-
         private static bool[] GetPolynom(int r)
         {
             if (r < G.Count() + 1)
