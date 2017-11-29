@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\bin\Debug\Cesar.exe.config
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\bin\Debug\Cesar.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\bin\Debug\Cesar.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\obj\Debug\Cesar.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\obj\Debug\Cesar.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\Cesar\Cesar\obj\Debug\Cesar.pdb
