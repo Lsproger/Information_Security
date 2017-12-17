@@ -1,0 +1,6 @@
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\bin\Debug\DES.exe.config
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\bin\Debug\DES.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\bin\Debug\DES.pdb
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\obj\Debug\DES.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\obj\Debug\DES.exe
+D:\Учёба\3 курс\1 сем\Information_Security\Projects\DES\DES\obj\Debug\DES.pdb

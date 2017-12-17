@@ -10,6 +10,12 @@ namespace DES
     {
         static void Main(string[] args)
         {
+            DES des = new DES();
+            des.InputData();
+            des.Encrypt();
+            des.DisplayResult(true);
+            des.Decrypt();
+            des.DisplayResult(false);
         }
     }
 }
