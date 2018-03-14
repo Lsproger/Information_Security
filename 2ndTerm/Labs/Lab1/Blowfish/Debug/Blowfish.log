@@ -1,0 +1,3 @@
+﻿  Blowfish.cpp
+d:\university\3\2\information_security\2ndterm\labs\lab1\blowfish\blowfish.cpp(256): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Blowfish.vcxproj -> D:\University\3\2\Information_Security\2ndTerm\Labs\Lab1\Debug\Blowfish.exe

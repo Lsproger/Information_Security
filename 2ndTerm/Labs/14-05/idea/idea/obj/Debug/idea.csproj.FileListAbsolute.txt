@@ -1,0 +1,6 @@
+D:\ВСЁ\C\idea\idea\bin\Debug\idea.exe.config
+D:\ВСЁ\C\idea\idea\obj\Debug\idea.csprojResolveAssemblyReference.cache
+D:\ВСЁ\C\idea\idea\bin\Debug\idea.exe
+D:\ВСЁ\C\idea\idea\bin\Debug\idea.pdb
+D:\ВСЁ\C\idea\idea\obj\Debug\idea.exe
+D:\ВСЁ\C\idea\idea\obj\Debug\idea.pdb

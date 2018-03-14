@@ -1,0 +1,34 @@
+﻿  GOST.cpp
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(55): warning C4244: аргумент: преобразование "time_t" в "UINT_32", возможна потеря данных
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(160): warning C4101: j: неиспользованная локальная переменная
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(207): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(229): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(234): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(256): warning C4102: L: неиспользованная метка
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(489): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(507): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(519): warning C4101: j: неиспользованная локальная переменная
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(519): warning C4101: i: неиспользованная локальная переменная
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(572): warning C4475: "sprintf": модификатор длины "L" невозможно использовать с символом поля типа "X" в описателе формата
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(572): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(579): warning C4475: "sprintf": модификатор длины "L" невозможно использовать с символом поля типа "X" в описателе формата
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(579): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(587): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(621): warning C4244: =: преобразование "UINT_64" в "char", возможна потеря данных
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(649): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(662): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note:  см. объявление "fopen"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(253): warning C4700: использована неинициализированная локальная переменная "count"
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(549): warning C4172: возвращение адреса локальной или временной переменной : s
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(564): warning C4172: возвращение адреса локальной или временной переменной : s
+d:\university\3\2\information_security\2ndterm\labs\14-05\gost\gost\gost.cpp(623): warning C4172: возвращение адреса локальной или временной переменной : buf
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\University\3\2\Information_Security\2ndTerm\Labs\14-05\GOST\Debug\GOST.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
