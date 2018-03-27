@@ -5,7 +5,7 @@ void Swap(T& arg1, T& arg2) {
 	arg2 = tmp;
 }
 
-const size_t block_size = 16; // 128 bit
+const size_t block_size = 160; // 1280 bit
 const size_t key_size   = 16; // 128 bit
 
 static const unsigned char s0[16] = {

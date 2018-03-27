@@ -1,7 +1,1 @@
-﻿  GOST.cpp
-d:\university\3\2\information_security\2ndterm\labs\lab1\gost\gost.cpp(82): warning C4244: =: преобразование "unsigned long" в "char", возможна потеря данных
-d:\university\3\2\information_security\2ndterm\labs\lab1\gost\gost.cpp(83): warning C4244: =: преобразование "unsigned long" в "char", возможна потеря данных
-d:\university\3\2\information_security\2ndterm\labs\lab1\gost\gost.cpp(84): warning C4244: =: преобразование "unsigned long" в "char", возможна потеря данных
-d:\university\3\2\information_security\2ndterm\labs\lab1\gost\gost.cpp(85): warning C4244: =: преобразование "unsigned long" в "char", возможна потеря данных
-d:\university\3\2\information_security\2ndterm\labs\lab1\gost\gost.cpp(208): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  GOST.vcxproj -> D:\University\3\2\Information_Security\2ndTerm\Labs\Lab1\Debug\GOST.exe
+﻿  GOST.vcxproj -> D:\University\3\2\Information_Security\2ndTerm\Labs\Lab1\Debug\GOST.exe

@@ -1,1 +1,4 @@
-﻿  IDEA.vcxproj -> D:\University\3\2\Information_Security\2ndTerm\Labs\Lab1\Debug\IDEA.exe
+﻿  IDEA.cpp
+d:\university\3\2\information_security\2ndterm\labs\lab1\idea\idea\idea.cpp(45): warning C4305: =: усечение из "int" в "wchar_t"
+d:\university\3\2\information_security\2ndterm\labs\lab1\idea\idea\idea.cpp(45): warning C4309: =: усечение константного значения
+  IDEA.vcxproj -> D:\University\3\2\Information_Security\2ndTerm\Labs\Lab1\Debug\IDEA.exe
