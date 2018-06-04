@@ -1,0 +1,28 @@
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe.config
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.pdb
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Form1.resources
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Properties.Resources.resources
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csproj.GenerateResource.Cache
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.exe
+E:\Мои файлы\Учеба\6 семестр\Защита информации\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.pdb
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe.config
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.exe
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.pdb
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.pdb
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csprojResolveAssemblyReference.cache
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Form1.resources
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Properties.Resources.resources
+D:\learn\Защита Информации\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\bin\Debug\EDSElGamal.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Form1.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EDSElGamal\EDSElGamal\obj\Debug\EDSElGamal.pdb

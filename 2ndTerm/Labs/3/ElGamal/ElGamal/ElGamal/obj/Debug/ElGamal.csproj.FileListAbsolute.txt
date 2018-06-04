@@ -1,0 +1,15 @@
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\bin\Debug\ElGamal.exe.config
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\bin\Debug\ElGamal.exe
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\bin\Debug\ElGamal.pdb
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\obj\Debug\ElGamal.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\obj\Debug\ElGamal.exe
+E:\Мои файлы\Учеба\5 семестр\Защита информации\ElGamal\ElGamal\obj\Debug\ElGamal.pdb
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\bin\Debug\ElGamal.exe.config
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\obj\Debug\ElGamal.exe
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\obj\Debug\ElGamal.pdb
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\bin\Debug\ElGamal.exe
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\bin\Debug\ElGamal.pdb
+C:\Users\BIGNATURALTITS\Desktop\ElGamal\ElGamal\ElGamal\obj\Debug\ElGamal.csprojResolveAssemblyReference.cache
+D:\learn\Защита Информации\3\ElGamal\ElGamal\ElGamal\bin\Debug\ElGamal.exe.config
+D:\learn\Защита Информации\3\ElGamal\ElGamal\ElGamal\obj\Debug\ElGamal.exe
+D:\learn\Защита Информации\3\ElGamal\ElGamal\ElGamal\obj\Debug\ElGamal.pdb

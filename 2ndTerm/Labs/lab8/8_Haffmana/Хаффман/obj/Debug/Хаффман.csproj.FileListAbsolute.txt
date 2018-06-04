@@ -1,0 +1,67 @@
+C:\Users\vovab\Desktop\Хаффман\Хаффман\bin\Debug\Хаффман.exe.config
+C:\Users\vovab\Desktop\Хаффман\Хаффман\bin\Debug\Хаффман.exe
+C:\Users\vovab\Desktop\Хаффман\Хаффман\bin\Debug\Хаффман.pdb
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.Form1.resources
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.exe
+C:\Users\vovab\Desktop\Хаффман\Хаффман\obj\Debug\Хаффман.pdb
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+F:\Study\3\6\ЗИиНИС\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+D:\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+D:\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+D:\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+D:\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+H:\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+H:\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+H:\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+H:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+E:\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+E:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+E:\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+D:\UCH\3KURS\2SEM\6 сем\Защита\Новая папка\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\bin\Debug\Хаффман.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.Form1.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\8_Haffmana\Хаффман\obj\Debug\Хаффман.pdb

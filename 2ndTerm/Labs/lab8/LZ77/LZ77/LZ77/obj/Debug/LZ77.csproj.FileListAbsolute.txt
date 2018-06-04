@@ -1,0 +1,74 @@
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.exe.config
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.exe
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.pdb
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Compress.resources
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Decompress.resources
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.exe
+F:\3 курс\2 cеместр\Защита\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.pdb
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.exe.config
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.exe
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.pdb
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Compress.resources
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Decompress.resources
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.exe
+C:\Users\Jeka\Desktop\LZ77(v 2.0)\LZ77\bin\Debug\LZ77.pdb
+F:\3 курс\2 cеместр\Защита\LZ77\LZ77\bin\Debug\LZ77.exe.config
+F:\3 курс\2 cеместр\Защита\LZ77\LZ77\obj\Debug\LZ77.exe
+F:\3 курс\2 cеместр\Защита\LZ77\LZ77\obj\Debug\LZ77.pdb
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe.config
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.exe
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.pdb
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.Compress.resources
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.Decompress.resources
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe
+C:\Users\alesj\Downloads\LZ77\LZ77\LZ77\bin\Debug\LZ77.pdb
+E:\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe.config
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.exe
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.pdb
+E:\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe
+E:\LZ77\LZ77\LZ77\bin\Debug\LZ77.pdb
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.Compress.resources
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.Decompress.resources
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+E:\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe.config
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.exe
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.pdb
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.Compress.resources
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.Decompress.resources
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe
+D:\UCH\3kurs\2semestr\6 сем\Защита\LZ77\LZ77\LZ77\bin\Debug\LZ77.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe.config
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Compress.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Decompress.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\bin\Debug\LZ77.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Compress.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Decompress.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab8\LZ77\LZ77\LZ77\obj\Debug\LZ77.pdb

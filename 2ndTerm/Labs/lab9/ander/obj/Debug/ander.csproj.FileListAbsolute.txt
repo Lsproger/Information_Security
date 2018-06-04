@@ -1,0 +1,73 @@
+S:\Защита информации - 5 курс\ander\bin\Debug\ander.exe.config
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.Form1.resources
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.Properties.Resources.resources
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+S:\Защита информации - 5 курс\ander\bin\Debug\ander.exe
+S:\Защита информации - 5 курс\ander\bin\Debug\ander.pdb
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.exe
+S:\Защита информации - 5 курс\ander\obj\Debug\ander.pdb
+C:\Users\Андрей\Downloads\ander\ander\bin\Debug\ander.exe.config
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.exe
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.pdb
+C:\Users\Андрей\Downloads\ander\ander\bin\Debug\ander.exe
+C:\Users\Андрей\Downloads\ander\ander\bin\Debug\ander.pdb
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.Form1.resources
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.Properties.Resources.resources
+C:\Users\Андрей\Downloads\ander\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\3 курс 6 сем\ЗИ\ander\ander\bin\Debug\ander.exe.config
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.exe
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.pdb
+D:\3 курс 6 сем\ЗИ\ander\ander\bin\Debug\ander.exe
+D:\3 курс 6 сем\ЗИ\ander\ander\bin\Debug\ander.pdb
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.Form1.resources
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.Properties.Resources.resources
+D:\3 курс 6 сем\ЗИ\ander\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\bin\Debug\ander.exe.config
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.exe
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.pdb
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\bin\Debug\ander.exe
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\bin\Debug\ander.pdb
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.Form1.resources
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.Properties.Resources.resources
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\УЧЁБА\6 сем\Защита информации\ander\ander\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\bin\Debug\ander.exe.config
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.exe
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.pdb
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\bin\Debug\ander.exe
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\bin\Debug\ander.pdb
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.Form1.resources
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.Properties.Resources.resources
+E:\Study\3 курс\6 сем\Новая папка\Защита информации\ander\ander\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+E:\Новая папка\ander\bin\Debug\ander.exe.config
+E:\Новая папка\ander\obj\Debug\ander.exe
+E:\Новая папка\ander\obj\Debug\ander.pdb
+E:\Новая папка\ander\bin\Debug\ander.exe
+E:\Новая папка\ander\bin\Debug\ander.pdb
+E:\Новая папка\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+E:\Новая папка\ander\obj\Debug\ander.Form1.resources
+E:\Новая папка\ander\obj\Debug\ander.Properties.Resources.resources
+E:\Новая папка\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\bin\Debug\ander.exe.config
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\bin\Debug\ander.exe
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\bin\Debug\ander.pdb
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.Form1.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.Properties.Resources.resources
+D:\UCH\3kurs\2semestr\Защита информации\lab9\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\bin\Debug\ander.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\bin\Debug\ander.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\bin\Debug\ander.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.Form1.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\lab9\ander\obj\Debug\ander.pdb

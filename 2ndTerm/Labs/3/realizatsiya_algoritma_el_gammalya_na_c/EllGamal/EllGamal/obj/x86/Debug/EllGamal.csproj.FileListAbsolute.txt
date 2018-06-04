@@ -1,0 +1,17 @@
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\bin\Debug\EllGamal.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\bin\Debug\EllGamal.pdb
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Form1.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Properties.Resources.resources
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.exe
+c:\documents and settings\abylay\my documents\visual studio 2010\Projects\EllGamal\EllGamal\obj\x86\Debug\EllGamal.pdb
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\bin\Debug\EllGamal.exe
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\bin\Debug\EllGamal.pdb
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csprojResolveAssemblyReference.cache
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Form1.resources
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.Properties.Resources.resources
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.csproj.GenerateResource.Cache
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.exe
+C:\Users\BIGNATURALTITS\Desktop\realizatsiya_algoritma_el_gammalya_na_c\EllGamal\EllGamal\obj\x86\Debug\EllGamal.pdb

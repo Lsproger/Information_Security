@@ -1,0 +1,6 @@
+D:\learn\Защита Информации\4\BWT\BWT\bin\Debug\BWT.exe.config
+D:\learn\Защита Информации\4\BWT\BWT\bin\Debug\BWT.exe
+D:\learn\Защита Информации\4\BWT\BWT\bin\Debug\BWT.pdb
+D:\learn\Защита Информации\4\BWT\BWT\obj\Debug\BWT.csprojResolveAssemblyReference.cache
+D:\learn\Защита Информации\4\BWT\BWT\obj\Debug\BWT.exe
+D:\learn\Защита Информации\4\BWT\BWT\obj\Debug\BWT.pdb

@@ -1,0 +1,15 @@
+D:\learn\Защита Информации\3\EGSA\EGSA\bin\Debug\EGSA.exe.config
+D:\learn\Защита Информации\3\EGSA\EGSA\bin\Debug\EGSA.exe
+D:\learn\Защита Информации\3\EGSA\EGSA\bin\Debug\EGSA.pdb
+D:\learn\Защита Информации\3\EGSA\EGSA\obj\Debug\EGSA.csprojResolveAssemblyReference.cache
+D:\learn\Защита Информации\3\EGSA\EGSA\obj\Debug\EGSA.exe
+D:\learn\Защита Информации\3\EGSA\EGSA\obj\Debug\EGSA.pdb
+D:\learn\Защита Информации\3\EGSA\EGSA\bin\Debug\BouncyCastle.Crypto.dll
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\bin\Debug\EGSA.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\bin\Debug\EGSA.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\bin\Debug\EGSA.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\bin\Debug\BouncyCastle.Crypto.dll
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\obj\Debug\EGSA.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\obj\Debug\EGSA.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\obj\Debug\EGSA.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\3\EGSA\EGSA\obj\Debug\EGSA.pdb
