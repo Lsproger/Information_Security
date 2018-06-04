@@ -1,0 +1,10 @@
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.Form1.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\notvirus.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\notvirus.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\notvirus.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\notvirus.pdb

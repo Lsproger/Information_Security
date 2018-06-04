@@ -1,0 +1,10 @@
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.csprojResolveAssemblyReference.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.Form1.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.Properties.Resources.resources
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.csproj.GenerateResource.Cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.csproj.CoreCompileInputs.cache
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\svchost.exe.config
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\svchost.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\bin\Debug\svchost.pdb
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.exe
+D:\University\3 курс\2\Information_Security\2ndTerm\Labs\svchost\svchost\obj\Debug\svchost.pdb
